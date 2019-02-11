@@ -7,7 +7,7 @@
 3. Clone your forked repo to your machine.
 4. Do the homework. Add, commit and push your changes to origin (your forked repo on GHE).
 
-5. Open a pull request to the original homework repo (the one you forked from). Be sure to make the title of the PR your first and last name. Here is  sample [template](https://git.generalassemb.ly/wdi-nyc-octonion/class-info/blob/master/SAMPLE_HW_TEMPLATE.md)   
+5. Open a pull request to the original homework repo (the one you forked from). Be sure to make the title of the PR your first and last name. Here is  sample [template](https://git.generalassemb.ly/wdi-nyc-terabyte/class-info/blob/master/SAMPLE_HW_TEMPLATE.md)   
 
 6. Please note that you are required to rate your completion out of 3 (where 0 means didn't start, 1 means incomplete, 2 means complete and 3 means complete with bonuses) and your comfort out of 5 in the comment section of your pull request in order for your homeowrk to be considered complete. 
 
