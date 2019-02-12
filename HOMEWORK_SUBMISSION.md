@@ -2,7 +2,7 @@
 
 ## This is the typical procedure for submitting homework, but it will occasionally vary. 
 
-1. Find the repo for the homework assignment in our class' Github Enterprise organization "wdi-nyc-octonion".
+1. Find the repo for the homework assignment in our class' Github Enterprise organization "wdi-nyc-terabyte".
 2. Fork the homework repo to your own Github Enterprise account.
 3. Clone your forked repo to your machine.
 4. Do the homework. Add, commit and push your changes to origin (your forked repo on GHE).
