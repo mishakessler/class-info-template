@@ -93,7 +93,7 @@ High level outline of topics we are going to cover, and links to the detailed we
 We summarize the most useful commands in [cheat sheets](https://git.generalassemb.ly/wdi-nyc-terabyte/class-info/wiki/Cheat-Sheets).
 
 ## Schedule a 1:1
-Use [this Google Form](https://goo.gl/forms/3xcTLxgGpX3RChIl1) to schedule a One on One meeting with your squad lead regarding technical questions or personal issues.
+Use [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScC6iYmce1Zz915ecGsFt2sLQRd9c5nGUSG1_AAPIGCMI90rg/viewform?vc=0&c=0&w=1) to schedule a One on One meeting with your squad lead regarding technical questions or personal issues.
 
 Technical conversations will take place between 4:00 PM - 4:45 on Monday, Tuesday, Thursday, and Friday.  
 Meetings regarding personal concerns can be scheduled at any time.    
