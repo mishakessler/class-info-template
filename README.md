@@ -45,7 +45,7 @@ Welcome to WDI Terabyte! This will be used for most of the information you will 
 |10:00-12:30|Lesson with small exercises| Lesson with small exercises| Outcomes | Lesson with small exercises| Lesson with small exercises |
 |12:30 - 1:30| Lunch | Lunch | Lunch | Lunch | Lunch |
 |1:30 - 4:00| Lesson/Lab | Lesson/Lab | Make up outstanding Mon/Tues work| Lesson/Lab | Lesson/Lab | 
-|4:00 - 4:45| Student/Instructor meetings | Student/Instructor meetings | Make up outstanding Mon/Tues work| Student/Instructor meetings | Student/Instructor meetings |
+|4:00 - 4:45| Student/IA meetings | Student/IA meetings | Make up outstanding Mon/Tues work| Student/IA meetings | Student/IA meetings |
 |6:00 - 9:00  | Lab continued/Homework | Lab continued/Homework | | Lab continued/Homework | Lab continued/Homework | 
 
 
