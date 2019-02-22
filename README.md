@@ -25,7 +25,7 @@ Welcome to WDI Terabyte! This will be used for most of the information you will 
 | --------------------------- | ------------- | ------------ | ------------------------------ | ------------------------------------------------------- |
 | **Instructional Lead**      | Bruno Galvao   | @brunopgalvao | bruno.galvao@generalassemb.ly   | [brunopgalvao](https://git.generalassemb.ly/brunopgalvao) |
 | **Instructional Associate** | Tara Fenton | @tarafenton | tara.fenton@generalassemb.ly | [tara-fenton](https://git.generalassemb.ly/tara-fenton)
-| **Instructional Associate** | Leo Rodriguez | @Leo | leo.rodriguez@generalassemb.ly | [Leonardo](https://git.generalassemb.ly/leo.rodriguez)
+| **Instructional Associate** | Leo Rodriguez | @Leo | leonardo.rodriguez@generalassemb.ly | [Leonardo](https://git.generalassemb.ly/leo.rodriguez)
 | **Teaching Assistant** | Dillon Bartkus | @Dillon Bartkus  | | [Dillon Bartkus](https://git.generalassemb.ly/dillonbartkus)
 
 ## Important Dates
