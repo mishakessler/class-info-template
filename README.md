@@ -1,6 +1,6 @@
 # WDI  Terabyte Class Information
 
-![GA Logo](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WEB DEVELOPMENT IMMERSIVE
 
 Welcome to WDI Terabyte! This will be used for most of the information you will need as students. This includes important links, contact information, etc.
 
