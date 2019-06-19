@@ -83,8 +83,8 @@ See our [homework submission guidelines](HOMEWORK_SUBMISSION.md).
 
 High level outline of topics we are going to cover, and links to the detailed weekly schedule.
 
-![Weekly Breakdown](https://git.generalassemb.ly/wdi-nyc-terabyte/class-info/blob/master/terabyte_weekly_breakdown.png)
-![Weekly Breakdown](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/blob/master/terabyte_weekly_breakdown.png)
+
+![Weekly Breakdown](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/blob/master/cicadas_weekly_breakdown.png)
 
 [Terabyte Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/wdi-nyc-terabyte/class-info/wiki/Weekly-Schedules)
 [Cicadas Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/wiki/Weekly-Schedules)
