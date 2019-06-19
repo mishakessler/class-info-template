@@ -33,8 +33,10 @@ Welcome to SEI Cicadas! This will be used for most of the information you will n
 
 | Date | Day of Week | Event |
 |:----:|:-----------:|:------|
-| **February 19**  | Tuesday | **First day of class!** |
-| **May 13** | Monday | **Last day of class** |
+| **June 24**  | Monday | **First day of class!** |
+| **September 18** | Friday | **Last day of class** |
+| **July 4th, 5th** | Thursday, Friday | **Holiday** |
+| **September 2** | Friday | **Holiday** |
 
 ## Weekly Schedule
 > This schedule may vary and could change depending on class progress...  
@@ -82,8 +84,10 @@ See our [homework submission guidelines](HOMEWORK_SUBMISSION.md).
 High level outline of topics we are going to cover, and links to the detailed weekly schedule.
 
 ![Weekly Breakdown](https://git.generalassemb.ly/wdi-nyc-terabyte/class-info/blob/master/terabyte_weekly_breakdown.png)
+![Weekly Breakdown](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/blob/master/terabyte_weekly_breakdown.png)
 
 [Terabyte Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/wdi-nyc-terabyte/class-info/wiki/Weekly-Schedules)
+[Cicadas Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/wiki/Weekly-Schedules)
 
 1. **Unit 1**: Front-End Web Development Foundations - HTML, CSS, & JavaScript
 2. **Unit 2**: Front-End JavaScript Frameworks and Advanced JS - React
@@ -92,7 +96,7 @@ High level outline of topics we are going to cover, and links to the detailed we
 
 ## Cheat Sheets
 
-We summarize the most useful commands in [cheat sheets](https://git.generalassemb.ly/wdi-nyc-terabyte/class-info/wiki/Cheat-Sheets).
+We summarize the most useful commands in [cheat sheets](https://git.generalassemb.ly/sei-cicadas/class-info/wiki/Cheat-Sheets).
 
 ## Schedule a 1:1
 Use [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScC6iYmce1Zz915ecGsFt2sLQRd9c5nGUSG1_AAPIGCMI90rg/viewform?vc=0&c=0&w=1) to schedule a One on One meeting with your squad lead regarding technical questions or personal issues.
