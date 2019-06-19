@@ -24,9 +24,10 @@ Welcome to SEI Cicadas! This will be used for most of the information you will n
 | Role                        | Name          | Slack        | Email                          | GitHub Enterprise                                       |
 | --------------------------- | ------------- | ------------ | ------------------------------ | ------------------------------------------------------- |
 | **Instructional Lead**      | Bruno Galvao   | @brunopgalvao | bruno.galvao@generalassemb.ly   | [brunopgalvao](https://git.generalassemb.ly/brunopgalvao) |
-| **Instructional Associate** |  | @tarafenton | tara.fenton@generalassemb.ly | [tara-fenton](https://git.generalassemb.ly/tara-fenton)
-| **Instructional Associate** | Leo Rodriguez | @Leo | leonardo.rodriguez@generalassemb.ly | [Leonardo](https://git.generalassemb.ly/leo.rodriguez)
-| **Teaching Assistant** | Dillon Bartkus | @Dillon Bartkus  | | [Dillon Bartkus](https://git.generalassemb.ly/dillonbartkus)
+| **Instructional Lead**      | Emre Surmeli   | @emresurmeli | emre.surmeli@generalassemb.ly   | [emresurmeli](https://git.generalassemb.ly/emresurmeli) |
+| **Instructional Associate** | Loriana Hines | @loriana | loriana.hines@generalassemb.ly | [loriana](https://git.generalassemb.ly/lorianahines)
+| **Instructional Associate** | Mikayda Mills | @kdabug | mikayda.mills@generalassemb.ly | [kdabug](https://git.generalassemb.ly/kdabug)
+
 
 ## Important Dates
 
