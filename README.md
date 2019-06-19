@@ -1,8 +1,8 @@
-# WDI  Terabyte Class Information
+# SEI Cicadas Class Information
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WEB DEVELOPMENT IMMERSIVE
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
 
-Welcome to WDI Terabyte! This will be used for most of the information you will need as students. This includes important links, contact information, etc.
+Welcome to SEI Cicadas! This will be used for most of the information you will need as students. This includes important links, contact information, etc.
 
 ## Contents
 
@@ -24,7 +24,7 @@ Welcome to WDI Terabyte! This will be used for most of the information you will 
 | Role                        | Name          | Slack        | Email                          | GitHub Enterprise                                       |
 | --------------------------- | ------------- | ------------ | ------------------------------ | ------------------------------------------------------- |
 | **Instructional Lead**      | Bruno Galvao   | @brunopgalvao | bruno.galvao@generalassemb.ly   | [brunopgalvao](https://git.generalassemb.ly/brunopgalvao) |
-| **Instructional Associate** | Tara Fenton | @tarafenton | tara.fenton@generalassemb.ly | [tara-fenton](https://git.generalassemb.ly/tara-fenton)
+| **Instructional Associate** |  | @tarafenton | tara.fenton@generalassemb.ly | [tara-fenton](https://git.generalassemb.ly/tara-fenton)
 | **Instructional Associate** | Leo Rodriguez | @Leo | leonardo.rodriguez@generalassemb.ly | [Leonardo](https://git.generalassemb.ly/leo.rodriguez)
 | **Teaching Assistant** | Dillon Bartkus | @Dillon Bartkus  | | [Dillon Bartkus](https://git.generalassemb.ly/dillonbartkus)
 
