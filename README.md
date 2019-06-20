@@ -34,7 +34,7 @@ Welcome to SEI Cicadas! This will be used for most of the information you will n
 | Date | Day of Week | Event |
 |:----:|:-----------:|:------|
 | **June 24**  | Monday | **First day of class!** |
-| **September 18** | Friday | **Last day of class** |
+| **September 18** | Wednesday | **Last day of class** |
 | **July 4th, 5th** | Thursday, Friday | **Holiday** |
 | **September 2** | Friday | **Holiday** |
 
