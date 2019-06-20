@@ -23,7 +23,7 @@ Welcome to SEI Cicadas! This will be used for most of the information you will n
 
 | Role                        | Name          | Slack        | Email                          | GitHub Enterprise                                       |
 | --------------------------- | ------------- | ------------ | ------------------------------ | ------------------------------------------------------- |
-| **Instructional Lead**      | Bruno Galvao   | @brunopgalvao | bruno.galvao@generalassemb.ly   | [brunopgalvao](https://git.generalassemb.ly/brunopgalvao) |
+| **Instructional Lead**      | Bruno Galvao   | @bruno | bruno.galvao@generalassemb.ly   | [bruno](https://git.generalassemb.ly/brunopgalvao) |
 | **Instructional Lead**      | Emre Surmeli   | @emresurmeli | emre.surmeli@generalassemb.ly   | [emresurmeli](https://git.generalassemb.ly/emresurmeli) |
 | **Instructional Associate** | Loriana Hines | @loriana | loriana.hines@generalassemb.ly | [loriana](https://git.generalassemb.ly/lorianahines)
 | **Instructional Associate** | Mikayda Mills | @kdabug | mikayda.mills@generalassemb.ly | [kdabug](https://git.generalassemb.ly/kdabug)
@@ -58,7 +58,7 @@ Welcome to SEI Cicadas! This will be used for most of the information you will n
 * You are allowed **no more** than 3 unexcused absences
 * You are allowed **no more** than 9 late arrivals (arriving in class by more than 5 minutes passed class start time)
 * 3 late arrivals = 1 absence.
-* You must private message Tara via slack ( @tarafenton ) if you are running late, anticipating any absences or need to leave early.  
+* You must private message Mikayda or Loriana via slack if you are running late, anticipating any absences or need to leave early.  
 
 ## Homework Submission Guidelines
 
@@ -86,7 +86,6 @@ High level outline of topics we are going to cover, and links to the detailed we
 
 ![Weekly Breakdown](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/blob/master/cicadas_weekly_breakdown.png)
 
-[Terabyte Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/wdi-nyc-terabyte/class-info/wiki/Weekly-Schedules)
 [Cicadas Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/wiki/Weekly-Schedules)
 
 1. **Unit 1**: Front-End Web Development Foundations - HTML, CSS, & JavaScript
@@ -97,13 +96,6 @@ High level outline of topics we are going to cover, and links to the detailed we
 ## Cheat Sheets
 
 We summarize the most useful commands in [cheat sheets](https://git.generalassemb.ly/sei-cicadas/class-info/wiki/Cheat-Sheets).
-
-## Schedule a 1:1
-Use [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScC6iYmce1Zz915ecGsFt2sLQRd9c5nGUSG1_AAPIGCMI90rg/viewform?vc=0&c=0&w=1) to schedule a One on One meeting with your squad lead regarding technical questions or personal issues.
-
-Technical conversations will take place between 4:00 PM - 4:45 on Monday, Tuesday, Thursday, and Friday.  
-Meetings regarding personal concerns can be scheduled at any time.    
-If you cannot make these times (you should, you'll be in class!) we will work with you to schedule a time that works.  
 
 ## Licensing
 
