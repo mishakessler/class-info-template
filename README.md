@@ -24,19 +24,20 @@ Welcome to SEI Cicadas! This will be used for most of the information you will n
 | Role                        | Name          | Slack        | Email                          | GitHub Enterprise                                       |
 | --------------------------- | ------------- | ------------ | ------------------------------ | ------------------------------------------------------- |
 | **Instructional Lead**      | Bruno Galvao   | @bruno | bruno.galvao@generalassemb.ly   | [bruno](https://git.generalassemb.ly/brunopgalvao) |
-| **Instructional Lead**      | Emre Surmeli   | @emresurmeli | emre.surmeli@generalassemb.ly   | [emresurmeli](https://git.generalassemb.ly/emresurmeli) |
-| **Instructional Associate** | Loriana Hines | @loriana | loriana.hines@generalassemb.ly | [loriana](https://git.generalassemb.ly/lorianahines)
-| **Instructional Associate** | Mikayda Mills | @kdabug | mikayda.mills@generalassemb.ly | [kdabug](https://git.generalassemb.ly/kdabug)
+| **Instructional Associate** | Katelyn Miles | @katelyn | katelyn.miles@generalassemb.ly | [Milesk](https://git.generalassemb.ly/Milesk)
+| **Instructional Associate** | Andre Pato | @Andre_Pato | andre.pato@generalassemb.ly | [anpato](https://git.generalassemb.ly/anpato)
 
 
 ## Important Dates
 
 | Date | Day of Week | Event |
 |:----:|:-----------:|:------|
-| **June 24**  | Monday | **First day of class!** |
-| **September 18** | Wednesday | **Last day of class** |
-| **July 4th, 5th** | Thursday, Friday | **Holiday** |
-| **September 2** | Friday | **Holiday** |
+| **October 14**  | Monday | **First day of class!** |
+| **January 17** | Friday | **Last day of class** |
+| **November 11th** | Monday | **Holiday** |
+| **November 28th, 29th** | Thursday, Friday | **Holiday** |
+| **December 23rd, 24th, 25th, 26th, 27th, 30th, 31st** | Monday-Friday, Monday| **Holiday** |
+| **January 1st** | Tuesday | **Holiday** |
 
 ## Weekly Schedule
 > This schedule may vary and could change depending on class progress...  
@@ -58,7 +59,7 @@ Welcome to SEI Cicadas! This will be used for most of the information you will n
 * You are allowed **no more** than 3 unexcused absences
 * You are allowed **no more** than 9 late arrivals (arriving in class by more than 5 minutes passed class start time)
 * 3 late arrivals = 1 absence.
-* You must private message Mikayda or Loriana via slack if you are running late, anticipating any absences or need to leave early.  
+* You must private message Katelyn or Andre via slack if you are running late, anticipating any absences or need to leave early.  
 
 ## Homework Submission Guidelines
 
@@ -86,7 +87,7 @@ High level outline of topics we are going to cover, and links to the detailed we
 
 ![Weekly Breakdown](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/blob/master/cicadas_weekly_breakdown.png)
 
-[Cicadas Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/wiki/Weekly-Schedules)
+[Owls Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/wiki/Weekly-Schedules)
 
 1. **Unit 1**: Front-End Web Development Foundations - HTML, CSS, & JavaScript
 2. **Unit 2**: Front-End JavaScript Frameworks and Advanced JS - React
