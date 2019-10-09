@@ -1,8 +1,8 @@
-# SEI Cicadas Class Information
+# SEI Owls Class Information
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
 
-Welcome to SEI Cicadas! This will be used for most of the information you will need as students. This includes important links, contact information, etc.
+Welcome to SEI Owls! This will be used for most of the information you will need as students. This includes important links, contact information, etc.
 
 ## Contents
 
