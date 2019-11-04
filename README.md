@@ -6,53 +6,57 @@ Welcome to SEI Cheetahs! This will be used for most of the information you will 
 
 ## Contents
 
-- [**Contact Information**](#contact-information)
-- [**Instructional Team**](#instructional-team)
-- [**Important Dates**](#important-dates)
-- [**Weekly Schedule**](#weekly-schedule)
-- [**Attendance**](#attendance)
-- [**Homework submission**](#homework-submission-guidelines)
-- [**TA hours**](#teaching-assistant-hours)
-- [**Campus hours**](#campus-hours)
-- [**Course Schedule**](#course-schedule)
+- [SEI Cheetahs Class Information](#sei-cheetahs-class-information)
+- [![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SOFTWARE ENGINEERING IMMERSIVE](#httpsga-dashs3amazonawscomproductionassetslogo-9f88ae6c9c3871690e33280fcf557f33png-software-engineering-immersive)
+  - [Contents](#contents)
+  - [Contact Information](#contact-information)
+    - [Instructional Team](#instructional-team)
+  - [Important Dates](#important-dates)
+  - [Weekly Schedule](#weekly-schedule)
+  - [Attendance](#attendance)
+  - [Homework Submission Guidelines](#homework-submission-guidelines)
+  - [Teaching Assistant Hours](#teaching-assistant-hours)
+  - [Campus Hours](#campus-hours)
+  - [Course Schedule](#course-schedule)
+  - [Cheat Sheets](#cheat-sheets)
+  - [Licensing](#licensing)
 <br>
 
 ## Contact Information
 
 ### Instructional Team
 
-| Role                        | Name          | Slack        | Email                          | GitHub Enterprise                                       |
-| --------------------------- | ------------- | ------------ | ------------------------------ | ------------------------------------------------------- |
-| **Instructional Lead**      | Daniel Goldman   | @Daniel Goldman | daniel.goldman@generalassemb.ly   | [dan-goldman](https://git.generalassemb.ly/dan-goldman) |
-| **Instructional Lead**      | Suresh Sigera | @Suresh Melvin Sigera | bruno.galvao@generalassemb.ly   | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
-| **Instructional Lead**      | Casey Harding   | @Casey Harding | bruno.galvao@generalassemb.ly   | [bruno](https://git.generalassemb.ly/brunopgalvao) |
-| **Instructional Associate** | Mikayda Mills | @mikayda Mills | mikayda.mills@generalassemb.ly | [kdabug](https://git.generalassemb.ly/kdabug)
+| Role                        | Name           | Slack                 | Email                           | GitHub Enterprise                                                     |
+| --------------------------- | -------------- | --------------------- | ------------------------------- | --------------------------------------------------------------------- |
+| **Instructional Lead**      | Daniel Goldman | @Daniel Goldman       | daniel.goldman@generalassemb.ly | [dan-goldman](https://git.generalassemb.ly/dan-goldman)               |
+| **Instructional Lead**      | Suresh Sigera  | @Suresh Melvin Sigera | bruno.galvao@generalassemb.ly   | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
+| **Instructional Lead**      | Casey Harding  | @Casey Harding        | bruno.galvao@generalassemb.ly   | [bruno](https://git.generalassemb.ly/brunopgalvao)                    |
+| **Instructional Associate** | Mikayda Mills  | @mikayda Mills        | mikayda.mills@generalassemb.ly  | [kdabug](https://git.generalassemb.ly/kdabug)                         |
 
 
 
 ## Important Dates
 
-| Date | Day of Week | Event |
-|:----:|:-----------:|:------|
-| **October 14**  | Monday | **First day of class!** |
-| **January 17** | Friday | **Last day of class** |
-| **November 11th** | Monday | **Holiday** |
-| **November 28th, 29th** | Thursday, Friday | **Holiday** |
-| **December 23rd, 24th, 25th, 26th, 27th, 30th, 31st** | Monday-Friday, Monday| **Holiday** |
-| **January 1st** | Tuesday | **Holiday** |
+|                         Date                          |      Day of Week      | Event                   |
+| :---------------------------------------------------: | :-------------------: | :---------------------- |
+|                    **November 12**                    |        Monday         | **First day of class!** |
+|                    **February 18**                    |        Friday         | **Last day of class**   |
+|                **November 28th, 29th**                |   Thursday, Friday    | **Holiday**             |
+| **December 23rd, 24th, 25th, 26th, 27th, 30th, 31st** | Monday-Friday, Monday | **Holiday**             |
+|                    **January 1st**                    |        Tuesday        | **Holiday**             |
 
 ## Weekly Schedule
 > This schedule may vary and could change depending on class progress...  
 
-|             | Monday | Tuesday | Wednesday | Thursday | Friday |
-| ------------|--------|---------|-----------|----------|--------|
-|9:00 - 9:05| Attendance | Attendance | Attendance | Attendance | Attendance |
-|9:05 - 10:00| Assessment | Morning Exercise | Outcomes | Morning Exercise | Review/Advanced Topic |
-|10:00-12:30|Lesson with small exercises| Lesson with small exercises| Outcomes | Lesson with small exercises| Lesson with small exercises |
-|12:30 - 1:30| Lunch | Lunch | Lunch | Lunch | Lunch |
-|1:30 - 4:00| Lesson/Lab | Lesson/Lab | Make up outstanding Mon/Tues work| Lesson/Lab | Lesson/Lab | 
-|4:00 - 4:45| Student/IA meetings | Student/IA meetings | Make up outstanding Mon/Tues work| Student/IA meetings | Student/IA meetings |
-|6:00 - 9:00  | Lab continued/Homework | Lab continued/Homework | | Lab continued/Homework | Lab continued/Homework | 
+|              | Monday                      | Tuesday                     | Wednesday                         | Thursday                    | Friday                      |
+| ------------ | --------------------------- | --------------------------- | --------------------------------- | --------------------------- | --------------------------- |
+| 9:00 - 9:05  | Attendance                  | Attendance                  | Attendance                        | Attendance                  | Attendance                  |
+| 9:05 - 10:00 | Assessment                  | Morning Exercise            | Outcomes                          | Morning Exercise            | Review/Advanced Topic       |
+| 10:00-12:30  | Lesson with small exercises | Lesson with small exercises | Outcomes                          | Lesson with small exercises | Lesson with small exercises |
+| 12:30 - 1:30 | Lunch                       | Lunch                       | Lunch                             | Lunch                       | Lunch                       |
+| 1:30 - 4:00  | Lesson/Lab                  | Lesson/Lab                  | Make up outstanding Mon/Tues work | Lesson/Lab                  | Lesson/Lab                  |
+| 4:00 - 4:45  | Student/IA meetings         | Student/IA meetings         | Make up outstanding Mon/Tues work | Student/IA meetings         | Student/IA meetings         |
+| 6:00 - 9:00  | Lab continued/Homework      | Lab continued/Homework      |                                   | Lab continued/Homework      | Lab continued/Homework      |
 
 
 ## Attendance
@@ -69,15 +73,15 @@ See our [homework submission guidelines](HOMEWORK_SUBMISSION.md).
 
 ## Teaching Assistant Hours
 
-| Day | Time |
-|-----|------|
-| Monday, Tuesday and Thursday | 5PM - 8PM
-| Wednesday | 12PM - 3PM |
+| Day                          | Time       |
+| ---------------------------- | ---------- |
+| Monday, Tuesday and Thursday | 5PM - 8PM  |
+| Wednesday                    | 12PM - 3PM |
 
 ## Campus Hours
 
 | Day               | Time       |
-|-------------------|------------|
+| ----------------- | ---------- |
 | Monday - Thursday | 8AM - 10PM |
 | Friday            | 8AM - 6PM  |
 | Saturday & Sunday | 9AM - 6PM  |
