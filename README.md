@@ -1,8 +1,8 @@
-# SEI Owls Class Information
+# SEI Cheetahs Class Information
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
 
-Welcome to SEI Owls! This will be used for most of the information you will need as students. This includes important links, contact information, etc.
+Welcome to SEI Cheetahs! This will be used for most of the information you will need as students. This includes important links, contact information, etc.
 
 ## Contents
 
@@ -23,9 +23,11 @@ Welcome to SEI Owls! This will be used for most of the information you will need
 
 | Role                        | Name          | Slack        | Email                          | GitHub Enterprise                                       |
 | --------------------------- | ------------- | ------------ | ------------------------------ | ------------------------------------------------------- |
-| **Instructional Lead**      | Bruno Galvao   | @bruno | bruno.galvao@generalassemb.ly   | [bruno](https://git.generalassemb.ly/brunopgalvao) |
-| **Instructional Associate** | Katelyn Miles | @katelyn | katelyn.miles@generalassemb.ly | [Milesk](https://git.generalassemb.ly/Milesk)
-| **Instructional Associate** | Andre Pato | @Andre_Pato | andre.pato@generalassemb.ly | [anpato](https://git.generalassemb.ly/anpato)
+| **Instructional Lead**      | Daniel Goldman   | @dan-goldman | daniel.goldman@generalassemb.ly   | [bruno](https://git.generalassemb.ly/brunopgalvao) |
+| **Instructional Lead**      | Suresh Sigera   | @sureshmelvinsigera | bruno.galvao@generalassemb.ly   | [bruno](https://git.generalassemb.ly/brunopgalvao) |
+| **Instructional Lead**      | Casey Harding   | @----- | bruno.galvao@generalassemb.ly   | [bruno](https://git.generalassemb.ly/brunopgalvao) |
+| **Instructional Associate** | Mikayda Mills | @kdabug | mikayda.mills@generalassemb.ly | [kdabug](https://git.generalassemb.ly/kdabug)
+
 
 
 ## Important Dates
@@ -85,9 +87,9 @@ See our [homework submission guidelines](HOMEWORK_SUBMISSION.md).
 High level outline of topics we are going to cover, and links to the detailed weekly schedule.
 
 
-![Weekly Breakdown](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/blob/master/cicadas_weekly_breakdown.png)
+![Weekly Breakdown](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/blob/master/cheetahs_weekly_breakdown.png)
 
-[Owls Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/sei-nyc-cicadas/class-info/wiki/Weekly-Schedules)
+[Owls Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Weekly-Schedules)
 
 1. **Unit 1**: Front-End Web Development Foundations - HTML, CSS, & JavaScript
 2. **Unit 2**: Front-End JavaScript Frameworks and Advanced JS - React
@@ -96,7 +98,7 @@ High level outline of topics we are going to cover, and links to the detailed we
 
 ## Cheat Sheets
 
-We summarize the most useful commands in [cheat sheets](https://git.generalassemb.ly/sei-cicadas/class-info/wiki/Cheat-Sheets).
+We summarize the most useful commands in [cheat sheets](https://git.generalassemb.ly/sei-cheetahs/class-info/wiki/Cheat-Sheets).
 
 ## Licensing
 
