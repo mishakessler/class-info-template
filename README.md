@@ -29,8 +29,8 @@ Welcome to SEI Cheetahs! This will be used for most of the information you will 
 | Role                        | Name           | Slack                 | Email                           | GitHub Enterprise                                                     |
 | --------------------------- | -------------- | --------------------- | ------------------------------- | --------------------------------------------------------------------- |
 | **Instructional Lead**      | Daniel Goldman | @Daniel Goldman       | daniel.goldman@generalassemb.ly | [dan-goldman](https://git.generalassemb.ly/dan-goldman)               |
-| **Instructional Lead**      | Suresh Sigera  | @Suresh Melvin Sigera | bruno.galvao@generalassemb.ly   | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
-| **Instructional Lead**      | Casey Harding  | @Casey Harding        | bruno.galvao@generalassemb.ly   | [bruno](https://git.generalassemb.ly/brunopgalvao)                    |
+| **Instructional Lead**      | Suresh Sigera  | @Suresh Melvin Sigera | casey.harding@generalassemb.ly   | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
+| **Instructional Lead**      | Casey Harding  | @Casey Harding        | casey.harding@generalassemb.ly   | [CRHarding](https://git.generalassemb.ly/CRHarding)                    |
 | **Instructional Associate** | Mikayda Mills  | @mikayda Mills        | mikayda.mills@generalassemb.ly  | [kdabug](https://git.generalassemb.ly/kdabug)                         |
 
 
