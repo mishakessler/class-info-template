@@ -39,11 +39,12 @@ Welcome to SEI Cheetahs! This will be used for most of the information you will 
 
 |                         Date                          |      Day of Week      | Event                   |
 | :---------------------------------------------------: | :-------------------: | :---------------------- |
-|                    **November 12**                    |        Monday         | **First day of class!** |
-|                    **February 18**                    |        Friday         | **Last day of class**   |
+|                    **November 12**                    |        Tuesday         | **First day of class!** |
+|                    **February 18**                    |        Tuesday         | **Last day of class**   |
 |                **November 28th, 29th**                |   Thursday, Friday    | **Holiday**             |
 | **December 23rd, 24th, 25th, 26th, 27th, 30th, 31st** | Monday-Friday, Monday | **Holiday**             |
 |                    **January 1st**                    |        Tuesday        | **Holiday**             |
+|                    **February 17th**                  |        Monday         | **Holiday**             |
 
 ## Weekly Schedule
 > This schedule may vary and could change depending on class progress...  
