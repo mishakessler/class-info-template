@@ -29,25 +29,25 @@ Welcome to SEI Cheetahs! This will be used for most of the information you will 
 | Role                        | Name           | Slack                 | Email                           | GitHub Enterprise                                                     |
 | --------------------------- | -------------- | --------------------- | ------------------------------- | --------------------------------------------------------------------- |
 | **Instructional Lead**      | Daniel Goldman | @Daniel Goldman       | daniel.goldman@generalassemb.ly | [dan-goldman](https://git.generalassemb.ly/dan-goldman)               |
-| **Instructional Lead**      | Suresh Sigera  | @Suresh Melvin Sigera | casey.harding@generalassemb.ly   | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
-| **Instructional Lead**      | Casey Harding  | @Casey Harding        | casey.harding@generalassemb.ly   | [CRHarding](https://git.generalassemb.ly/CRHarding)                    |
-| **Instructional Associate** | Mikayda Mills  | @mikayda Mills        | mikayda.mills@generalassemb.ly  | [kdabug](https://git.generalassemb.ly/kdabug)                         |
-
+| **Instructional Lead**      | Suresh Sigera  | @Suresh Melvin Sigera | suresh.sigera@generalassemb.ly  | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
+| **Instructional Lead**      | Casey Harding  | @Casey Harding        | casey.harding@generalassemb.ly  | [CRHarding](https://git.generalassemb.ly/CRHarding)                   |
+| **Instructional Associate** | Mikayda Mills  | @mikayda Mills        | mikayda.mills@ga.co             | [kdabug](https://git.generalassemb.ly/kdabug)                         |
+| **Instructional Associate** | Misha Kessler  | @Misha Kessler        | misha.kessler@ga.co             | [mishakessler](https://git.generalassemb.ly/mishakessler)             |
 
 
 ## Important Dates
 
 |                         Date                          |      Day of Week      | Event                   |
 | :---------------------------------------------------: | :-------------------: | :---------------------- |
-|                    **November 12**                    |        Tuesday         | **First day of class!** |
-|                    **February 18**                    |        Tuesday         | **Last day of class**   |
+|                    **November 12**                    |        Tuesday        | **First day of class!** |
+|                    **February 18**                    |        Tuesday        | **Last day of class**   |
 |                **November 28th, 29th**                |   Thursday, Friday    | **Holiday**             |
 | **December 23rd, 24th, 25th, 26th, 27th, 30th, 31st** | Monday-Friday, Monday | **Holiday**             |
 |                    **January 1st**                    |        Tuesday        | **Holiday**             |
 |                    **February 17th**                  |        Monday         | **Holiday**             |
 
 ## Weekly Schedule
-> This schedule may vary and could change depending on class progress...  
+> This schedule may vary and could change depending on class progress...
 
 |              | Monday                      | Tuesday                     | Wednesday                         | Thursday                    | Friday                      |
 | ------------ | --------------------------- | --------------------------- | --------------------------------- | --------------------------- | --------------------------- |
@@ -103,7 +103,7 @@ High level outline of topics we are going to cover, and links to the detailed we
 
 ## Cheat Sheets
 
-We summarize the most useful commands in [cheat sheets](https://git.generalassemb.ly/sei-cheetahs/class-info/wiki/Cheat-Sheets).
+We summarize the most useful commands in [cheat sheets](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Cheat-Sheets).
 
 ## Licensing
 
