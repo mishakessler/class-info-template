@@ -94,7 +94,7 @@ High level outline of topics we are going to cover, and links to the detailed we
 
 ![Weekly Breakdown](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/blob/master/cheetahs_weekly_breakdown.png)
 
-[Cheetahs Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Weekly-Schedules)
+[Cheetahs Class Schedule of Topics by Unit (Wiki)](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Weekly-Schedule)
 
 1. **Unit 1**: Front-End Web Development Foundations - HTML, CSS, & JavaScript
 2. **Unit 2**: Front-End JavaScript Frameworks and Advanced JS - React
