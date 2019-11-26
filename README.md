@@ -43,6 +43,7 @@ Welcome, SEI Cheetahs! This repository will be used for most of the information 
 | **Instructional Associate** | Misha Kessler   | @Misha Kessler        | misha.kessler@ga.co  | [mishakessler](https://git.generalassemb.ly/mishakessler)             |
 | **Outcomes Advisor**        | Daniel Robinson | @MDan Robinson        | dan.robinson@ga.co   |
 
+<br>
 
 # Course Calendar & Schedule
 
@@ -141,7 +142,7 @@ Resumés, LinkedIn, Job Applications, Oh My!
 ## Attendance & Tardiness
 
 * Attendance is taken both in the morning and evening.
-  * You must be on time and ready to begin the day by 9:00AM to be considered present for evening attendance.
+  * You must be on time and ready to begin the day by 9:00AM to be considered present for morning attendance.
   * You must remain on campus, in the classroom, until class is dismissed, and you must submit your exit tickets, to be considered present for evening attendance.
 
 **Please note:**
