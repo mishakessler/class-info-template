@@ -41,7 +41,7 @@ Welcome, SEI Cheetahs! This repository will be used for most of the information 
 | **Teaching Assistant**      | Mary Chapman    | @Mary Chapman         | mary.chapman@ga.co   | [marychapman](https://git.generalassemb.ly/mary-chapman)              |
 | **Instructional Associate** | Mikayda Mills   | @mikayda Mills        | mikayda.mills@ga.co  | [kdabug](https://git.generalassemb.ly/kdabug)                         |
 | **Instructional Associate** | Misha Kessler   | @Misha Kessler        | misha.kessler@ga.co  | [mishakessler](https://git.generalassemb.ly/mishakessler)             |
-| **Outcomes Advisor**        | Daniel Robinson | @MDan Robinson        | dan.robinson@ga.co   |
+| **Outcomes Advisor**        | Daniel Robinson | @Dan Robinson        | dan.robinson@ga.co   |
 
 <br>
 
