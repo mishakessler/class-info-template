@@ -74,7 +74,7 @@ Front-End Web Development Foundations - HTML, CSS, & JavaScript
 
 ### Unit 2
 Front-End JavaScript Frameworks and Advanced JS - React
-  * Week 4 – _12/02 to 12/06/19_
+  * [Week 4](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-4) – _12/02 to 12/06/19_
   * Week 5 – _12/09 to 12/13/19_
   * Week 6 – _12/16 to 12/20/19_ – Project 2
     * _Holiday & NYE Break_
