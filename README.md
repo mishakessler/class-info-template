@@ -161,7 +161,7 @@ Resumés, LinkedIn, Job Applications, Oh My!
 
 ## Homework Submission
 
-See the [homework submission guidelines](#Guidelines_Homework-Submissions.md).
+See **both** the [homework submission guidelines](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Guidelines_Homework-Submissions) and the [homework PR template](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Template_Homework-Submissions).
 
 <br>
 
