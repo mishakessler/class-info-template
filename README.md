@@ -43,7 +43,6 @@ For more resources, including General Assembly Guidelines, course templates, che
 | **Instructional Associate** Units 3-4 | Shay Kelley    | @Shay Kelley          | shay.kelley@ga.co    | [shayk](https://git.generalassemb.ly/shayk)                           |
 | **Instructional Associate**           | Misha Kessler  | @Misha Kessler        | misha.kessler@ga.co  | [mishakessler](https://git.generalassemb.ly/mishakessler)             |
 | **Teaching Assistant** Week 1         | Maddy Rombes   | @Maddy Rombes         | maddy.rombes@ga.co   | [romebeez](https://git.generalassemb.ly/romebeez)                     |
-
 | **Teaching Assistant** Weeks 2-15               | Mary Chapman    | @Mary Chapman         | mary.chapman@ga.co   | [marychapman](https://git.generalassemb.ly/mary-chapman)              |
 | **Outcomes Advisor**                  | Daniel Robinson | @Dan Robinson         | dan.robinson@ga.co   |
 
