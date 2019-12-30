@@ -60,7 +60,7 @@ For more resources, including General Assembly Guidelines, course templates, che
 | **December 30th, 31st**  | Monday, Tuesday  | NYE Holiday          |
 |     **January 1st**      |    Wednesday     | NYE Holiday          |
 |    **February 17th**     |      Monday      | Presidents' Day      |
-|     **February 18**      |     Tuesday      | Last Day of Class!   |
+|     **February 20th**    |     Thursday     | Last Day of Class!   |
 
 <br>
 
