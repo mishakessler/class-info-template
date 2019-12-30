@@ -33,15 +33,18 @@ For more resources, including General Assembly Guidelines, course templates, che
 
 # Course Leadership
 
-| Role                                  | Name            | Slack                 | Email                | GitHub Enterprise                                                     |
-| ------------------------------------- | --------------- | --------------------- | -------------------- | --------------------------------------------------------------------- |
-| **Instructional Lead** Unit 1         | Daniel Goldman  | @Daniel Goldman       | daniel.goldman@ga.co | [dan-goldman](https://git.generalassemb.ly/dan-goldman)               |
-| **Instructional Lead** Units 2-4      | Suresh Sigera   | @Suresh Melvin Sigera | suresh.sigera@ga.co  | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
-| **Instructional Lead** Units 2-4      | Casey Harding   | @Casey Harding        | casey.harding@ga.co  | [CRHarding](https://git.generalassemb.ly/CRHarding)                   |
-| **Instructional Associate** Units 1-2 | Mikayda Mills   | @mikayda Mills        | mikayda.mills@ga.co  | [kdabug](https://git.generalassemb.ly/kdabug)                         |
-| **Instructional Associate** Units 2-4 | Maddy Rombes    | @Maddy Rombes         | maddy.rombes@ga.co   | [romebeez](https://git.generalassemb.ly/romebeez)                     |
-| **Instructional Associate**           | Misha Kessler   | @Misha Kessler        | misha.kessler@ga.co  | [mishakessler](https://git.generalassemb.ly/mishakessler)             |
-| **Teaching Assistant**                | Mary Chapman    | @Mary Chapman         | mary.chapman@ga.co   | [marychapman](https://git.generalassemb.ly/mary-chapman)              |
+| Role                                  | Name           | Slack                 | Email                | GitHub Enterprise                                                     |
+| ------------------------------------- | -------------- | --------------------- | -------------------- | --------------------------------------------------------------------- |
+| **Instructional Lead** Unit 1         | Daniel Goldman | @Daniel Goldman       | daniel.goldman@ga.co | [dan-goldman](https://git.generalassemb.ly/dan-goldman)               |
+| **Instructional Lead** Units 2-4      | Suresh Sigera  | @Suresh Melvin Sigera | suresh.sigera@ga.co  | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
+| **Instructional Lead** Units 2-4      | Casey Harding  | @Casey Harding        | casey.harding@ga.co  | [CRHarding](https://git.generalassemb.ly/CRHarding)                   |
+| **Instructional Associate** Units 1-2 | Mikayda Mills  | @mikayda Mills        | mikayda.mills@ga.co  | [kdabug](https://git.generalassemb.ly/kdabug)                         |
+| **Instructional Associate** Unit 2    | Maddy Rombes   | @Maddy Rombes         | maddy.rombes@ga.co   | [romebeez](https://git.generalassemb.ly/romebeez)                     |
+| **Instructional Associate** Units 3-4 | Shay Kelley    | @Shay Kelley          | shay.kelley@ga.co    | [shayk](https://git.generalassemb.ly/shayk)                           |
+| **Instructional Associate**           | Misha Kessler  | @Misha Kessler        | misha.kessler@ga.co  | [mishakessler](https://git.generalassemb.ly/mishakessler)             |
+| **Teaching Assistant** Week 1         | Maddy Rombes   | @Maddy Rombes         | maddy.rombes@ga.co   | [romebeez](https://git.generalassemb.ly/romebeez)                     |
+
+| **Teaching Assistant** Weeks 2-15               | Mary Chapman    | @Mary Chapman         | mary.chapman@ga.co   | [marychapman](https://git.generalassemb.ly/mary-chapman)              |
 | **Outcomes Advisor**                  | Daniel Robinson | @Dan Robinson         | dan.robinson@ga.co   |
 
 <br>
