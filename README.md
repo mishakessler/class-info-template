@@ -86,8 +86,8 @@ Front-End JavaScript Frameworks and Advanced JS - React
 Back-End & Full Stack Web Development Foundations - MVC, Node.js, Express, PostgreSQL, & Sequelize
   * Week 7 – _Off_
   * [Week 8](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-8) – _01/02 to 01/03/20_
-  * Week 9 – _01/06 to 01/10/20_
-  * Week 10 – _01/13 to 01/17/20_ – Project 3 Begin
+  * [Week 9](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-9) – _01/06 to 01/10/20_
+  * Week 10 – _01/13 to 01/17/20_ – Project 3 Begins
     * _Martin Luther King Jr. Day_
   * Week 11 – _01/21 to 01/22/20_ – Project 3 Cont'd
 
@@ -95,10 +95,11 @@ Back-End & Full Stack Web Development Foundations - MVC, Node.js, Express, Postg
 Additional Technologies & Independent Work - Ruby on Rails, Final Project
   * Week 11 – _01/23 to 01/24/20_
   * Week 12 – _01/27 to 01/31/20_
-  * Week 13 – _02/03 to 02/07/20_ – Project 4 Begins
-  * Week 14 – _02/10 to 02/14/20_ – Project 4 Continued
+  * Week 13 – _02/03 to 02/07/20_
+  * Week 14 – _02/10 to 02/14/20_ – Project 4
     * _Presidents' Day_
-  * Week 15 _2/18/20_ – Project 4 Finished!
+  * Week 15 - _2/18 to 2/20/20_ – Project 4 Cont'd
+    * 2/20/20 - _Graduation Day!_
 
 ### Unit 5 (AKA Outcomes)
 Resumés, LinkedIn, Job Applications, Oh My!
