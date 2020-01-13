@@ -87,7 +87,7 @@ Back-End & Full Stack Web Development Foundations - MVC, Node.js, Express, Postg
   * Week 7 – _Off_
   * [Week 8](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-8) – _01/02 to 01/03/20_
   * [Week 9](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-9) – _01/06 to 01/10/20_
-  * Week 10 – _01/13 to 01/17/20_ – Project 3 Begins
+  * [Week 10](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-10) – _01/13 to 01/17/20_ – Project 3 Begins
     * _Martin Luther King Jr. Day_
   * Week 11 – _01/21 to 01/22/20_ – Project 3 Cont'd
 
