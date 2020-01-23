@@ -12,7 +12,7 @@ For more resources, including General Assembly Guidelines, course templates, che
 # Table of Contents <!-- omit in toc -->
 
 - [Course Leadership](#Course-Leadership)
-- [Course Calendar &amp; Schedule](#Course-Calendar-amp-Schedule)
+- [Course Calendar & Schedule](#Course-Calendar--Schedule)
   - [Important Dates](#Important-Dates)
   - [Course Breakdown (By Unit)](#Course-Breakdown-By-Unit)
     - [Unit 1](#Unit-1)
@@ -24,7 +24,7 @@ For more resources, including General Assembly Guidelines, course templates, che
   - [Teaching Assistant Hours](#Teaching-Assistant-Hours)
   - [Campus Hours](#Campus-Hours)
 - [Course Policies](#Course-Policies)
-  - [Attendance &amp; Tardiness](#Attendance-amp-Tardiness)
+  - [Attendance & Tardiness](#Attendance--Tardiness)
   - [Homework Submission](#Homework-Submission)
   - [Plagiarism](#Plagiarism)
 - [General Assembly Licensing](#General-Assembly-Licensing)
@@ -33,17 +33,17 @@ For more resources, including General Assembly Guidelines, course templates, che
 
 # Course Leadership
 
-| Role                                  | Name           | Slack                 | Email                | GitHub Enterprise                                                     |
-| ------------------------------------- | -------------- | --------------------- | -------------------- | --------------------------------------------------------------------- |
-| **Instructional Lead** Unit 1         | Daniel Goldman | @Daniel Goldman       | daniel.goldman@ga.co | [dan-goldman](https://git.generalassemb.ly/dan-goldman)               |
-| **Instructional Lead** Units 2-4      | Suresh Sigera  | @Suresh Melvin Sigera | suresh.sigera@ga.co  | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
-| **Instructional Lead** Units 2-4      | Casey Harding  | @Casey Harding        | casey.harding@ga.co  | [CRHarding](https://git.generalassemb.ly/CRHarding)                   |
-| **Instructional Associate** Units 1-2 | Mikayda Mills  | @mikayda Mills        | mikayda.mills@ga.co  | [kdabug](https://git.generalassemb.ly/kdabug)                         |
-| **Instructional Associate** Unit 2    | Maddy Rombes   | @Maddy Rombes         | maddy.rombes@ga.co   | [romebeez](https://git.generalassemb.ly/romebeez)                     |
-| **Instructional Associate** Units 3-4 | Shay Kelley    | @Shay Kelley          | shay.kelley@ga.co    | [shayk](https://git.generalassemb.ly/shayk)                           |
-| **Instructional Associate**           | Misha Kessler  | @Misha Kessler        | misha.kessler@ga.co  | [mishakessler](https://git.generalassemb.ly/mishakessler)             |
-| **Teaching Assistant** Week 1         | Maddy Rombes   | @Maddy Rombes         | maddy.rombes@ga.co   | [romebeez](https://git.generalassemb.ly/romebeez)                     |
-| **Teaching Assistant** Weeks 2-15               | Mary Chapman    | @Mary Chapman         | mary.chapman@ga.co   | [marychapman](https://git.generalassemb.ly/mary-chapman)              |
+| Role                                  | Name            | Slack                 | Email                | GitHub Enterprise                                                     |
+| ------------------------------------- | --------------- | --------------------- | -------------------- | --------------------------------------------------------------------- |
+| **Instructional Lead** Unit 1         | Daniel Goldman  | @Daniel Goldman       | daniel.goldman@ga.co | [dan-goldman](https://git.generalassemb.ly/dan-goldman)               |
+| **Instructional Lead** Units 2-4      | Suresh Sigera   | @Suresh Melvin Sigera | suresh.sigera@ga.co  | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
+| **Instructional Lead** Units 2-4      | Casey Harding   | @Casey Harding        | casey.harding@ga.co  | [CRHarding](https://git.generalassemb.ly/CRHarding)                   |
+| **Instructional Associate** Units 1-2 | Mikayda Mills   | @mikayda Mills        | mikayda.mills@ga.co  | [kdabug](https://git.generalassemb.ly/kdabug)                         |
+| **Instructional Associate** Unit 2    | Maddy Rombes    | @Maddy Rombes         | maddy.rombes@ga.co   | [romebeez](https://git.generalassemb.ly/romebeez)                     |
+| **Instructional Associate** Units 3-4 | Shay Kelley     | @Shay Kelley          | shay.kelley@ga.co    | [shayk](https://git.generalassemb.ly/shayk)                           |
+| **Instructional Associate**           | Misha Kessler   | @Misha Kessler        | misha.kessler@ga.co  | [mishakessler](https://git.generalassemb.ly/mishakessler)             |
+| **Teaching Assistant** Week 1         | Maddy Rombes    | @Maddy Rombes         | maddy.rombes@ga.co   | [romebeez](https://git.generalassemb.ly/romebeez)                     |
+| **Teaching Assistant** Weeks 2-15     | Mary Chapman    | @Mary Chapman         | mary.chapman@ga.co   | [marychapman](https://git.generalassemb.ly/mary-chapman)              |
 | **Outcomes Advisor**                  | Daniel Robinson | @Dan Robinson         | dan.robinson@ga.co   |
 
 <br>
@@ -60,7 +60,7 @@ For more resources, including General Assembly Guidelines, course templates, che
 | **December 30th, 31st**  | Monday, Tuesday  | NYE Holiday          |
 |     **January 1st**      |    Wednesday     | NYE Holiday          |
 |    **February 17th**     |      Monday      | Presidents' Day      |
-|     **February 20th**    |     Thursday     | Last Day of Class!   |
+|    **February 20th**     |     Thursday     | Last Day of Class!   |
 
 <br>
 
@@ -89,16 +89,16 @@ Back-End & Full Stack Web Development Foundations - MVC, Node.js, Express, Postg
   * [Week 9](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-9) – _01/06 to 01/10/20_
   * [Week 10](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-10) – _01/13 to 01/17/20_ – Project 3 Begins
     * _Martin Luther King Jr. Day_
-  * Week 11 – _01/21 to 01/22/20_ – Project 3 Cont'd
+  * [Week 11](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-11) – _01/21 to 01/22/20_ – Project 3 Cont'd
 
 ### Unit 4
 Additional Technologies & Independent Work - Ruby on Rails, Final Project
-  * Week 11 – _01/23 to 01/24/20_
-  * Week 12 – _01/27 to 01/31/20_
-  * Week 13 – _02/03 to 02/07/20_
-  * Week 14 – _02/10 to 02/14/20_ – Project 4
+  * [Week 11](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-11) – _01/23 to 01/24/20_
+  * [Week 12](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-12) – _01/27 to 01/31/20_
+  * [Week 13](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-13) – _02/03 to 02/07/20_
+  * [Week 14](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-14) – _02/10 to 02/14/20_ – Project 4
     * _Presidents' Day_
-  * Week 15 - _2/18 to 2/20/20_ – Project 4 Cont'd
+  * [Week 15](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-15) - _2/18 to 2/20/20_ – Project 4 Cont'd
     * 2/20/20 - _Graduation Day!_
 
 ### Unit 5 (AKA Outcomes)
