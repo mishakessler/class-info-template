@@ -5,21 +5,21 @@
 
 ## Class Information
 
-Congrats on starting your Software Engineering Immersive! This repo will be used for most of the information you will need as students for the next three months. This includes important schedule and calendar information, contact info for your leadership team, and course policies on homework, attendance, and plagiarism.
+Congrats on starting your Software Engineering Immersive! This repo will be used for most of the administrative and support info you will need as students for the next three months. This includes important schedule and calendar information, contact info for your leadership team, and course policies on homework, attendance, and plagiarism.
 
-For more, including the weekly and daily breakdowns and an overview of the templates available to you, please visit this repo's [wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki), which you can also find by clicking on the above link.
+For more, including the weekly and daily breakdowns and an overview of the resources available to you, please visit this repo's [wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki), which you can also find by clicking on the above Wiki tab.
 
 # Table of Contents <!-- omit in toc -->
 
 - [Course Leadership](#Course-Leadership)
 - [Course Calendar & Schedule](#Course-Calendar--Schedule)
   - [Important Dates](#Important-Dates)
-  - [Course Breakdown (By Unit)](#Course-Breakdown-By-Unit)
+  - [Course Breakdown (By Unit & Week)](#Course-Breakdown-By-Unit--Week)
     - [Unit 1](#Unit-1)
     - [Unit 2](#Unit-2)
     - [Unit 3](#Unit-3)
     - [Unit 4](#Unit-4)
-    - [Unit 5 (AKA Outcomes)](#Unit-5-AKA-Outcomes)
+    - [Unit 5](#Unit-5)
   - [Week Breakdown (An Example Day)](#Week-Breakdown-An-Example-Day)
   - [Teaching Assistant Hours](#Teaching-Assistant-Hours)
   - [Campus Hours](#Campus-Hours)
@@ -38,7 +38,7 @@ For more, including the weekly and daily breakdowns and an overview of the templ
 | **Instructional Lead** Unit 1 & 4 | David Whitlatch | @David Whitlatch | david.whitlatch@ga.co | [davidtwhitlatch](https://git.generalassemb.ly/davidtwhitlatch) |
 | **Instructional Lead** Unit 2     | Ali Spittel     | @Ali Spittel     | ali.spittel@ga.co     | [aspittel](https://git.generalassemb.ly/aspittel)               |
 | **Instructional Lead** Unit 3     | Bruno Galvao    | @Bruno Galvao    | bruno.galvao@ga.co    | [bruno](https://git.generalassemb.ly/bruno)                     |
-| **Instructional Associate**       | Katelyn Miles   | @Katelyn Miles   | katelyn.miles@ga.co   | [MilesK](https://git.generalassemb.ly/mishakessler)             |
+| **Instructional Associate**       | Katelyn Miles   | @Katelyn Miles   | katelyn.miles@ga.co   | [MilesK](https://git.generalassemb.ly/MilesK)                   |
 | **Instructional Associate**       | Misha Kessler   | @Misha Kessler   | misha.kessler@ga.co   | [mishakessler](https://git.generalassemb.ly/mishakessler)       |
 | **Teaching Assistant**            | Shay Kelley     | @Shay Kelley     | shay.kelley@ga.co     | [Shayk](https://git.generalassemb.ly/Shayk)                     |
 | **Outcomes Advisor**              | Daniel Robinson | @Dan Robinson    | dan.robinson@ga.co    |                                                                 |
@@ -59,37 +59,52 @@ For more, including the weekly and daily breakdowns and an overview of the templ
 
 <br>
 
-## Course Breakdown (By Unit)
+## Course Breakdown (By Unit & Week)
 
 ### Unit 1
-Front-End Web Development Foundations - HTML, CSS, & JavaScript
-  * [Week 1](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-1) – _11/12 to 11/15/19_
-  * [Week 2](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-2) – _11/18 to 11/22/19_
-  * [Week 3](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-3) – _11/25 to 11/27/19_ – Project 1
+
+**Front End Web Development Foundations - HTML, CSS, & JavaScript**
+
+|  Week  |    Dates    | Link                                                                                  | Topic                                           |
+| :----: | :---------: | :------------------------------------------------------------------------------------ | :---------------------------------------------- |
+| Week 1 | 2/24 - 2/28 | [Week 1 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-1) | Intros, Command Line Interface, Git, JavaScript |
+| Week 2 | 3/02 - 3/06 | [Week 2 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-2) |                                                 |
+| Week 3 | 3/09 - 3/13 | [Week 3 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-3) | Project 1                                       |
 
 ### Unit 2
-Front-End JavaScript Frameworks and Advanced JS - React
-  * [Week 4](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-4) – _12/02 to 12/06/19_
-  * [Week 5](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-5) – _12/09 to 12/13/19_
-  * [Week 6](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-6) – _12/16 to 12/20/19_ – Project 2
+
+**Front End JavaScript Frameworks and Advanced JS - React**
+
+|  Week  |    Dates    | Link                                                                                  | Topic     |
+| :----: | :---------: | :------------------------------------------------------------------------------------ | :-------- |
+| Week 4 | 3/16 - 3/20 | [Week 4 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-4) |           |
+| Week 5 | 3/23 - 3/27 | [Week 5 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-5) |           |
+| Week 6 | 3/30 - 4/03 | [Week 6 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-6) | Project 2 |
 
 ### Unit 3
-Back-End & Full Stack Web Development Foundations - MVC, Node.js, Express, PostgreSQL, & Sequelize
-  * [Week 7](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-7) – _01/02 to 01/03/20_
-  * [Week 8](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-8) – _01/02 to 01/03/20_
-  * [Week 9](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-9) – _01/06 to 01/10/20_
-  * [Week 10](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-10) – _01/13 to 01/17/20_ – Project 3 Begins
-  * [Week 11](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-11) – _01/21 to 01/22/20_ – Project 3 Cont'd
+
+**Back End & Full Stack Web Development Foundations - MVC, Node.js, Express, PostgreSQL, & Sequelize**
+
+|  Week  |    Dates    | Link                                                                                  | Topic          |
+| :----: | :---------: | :------------------------------------------------------------------------------------ | :------------- |
+| Week 7 | 4/06 - 4/10 | [Week 7 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-7) |                |
+| Week 8 | 4/13 - 4/17 | [Week 8 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-8) |                |
+| Week 9 | 4/20 - 4/23 | [Week 9 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-9) | Project 3 Week |
 
 ### Unit 4
-Additional Technologies & Independent Work - Ruby on Rails, Final Project
-  * [Week 11](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-11) – _01/23 to 01/24/20_
-  * [Week 12](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-12) – _01/27 to 01/31/20_
-  * [Week 13](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-13) – _02/03 to 02/07/20_
-  * [Week 14](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-14) – _02/10 to 02/14/20_ – Project 4
-  * [Week 15](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-15) - _2/18 to 2/20/20_ – Project 4 Cont'd
 
-### Unit 5 (AKA Outcomes)
+**Additional Technologies & Independent Work - Ruby on Rails**
+
+**Back End & Full Stack Web Development Foundations - MVC, Node.js, Express, PostgreSQL, & Sequelize**
+
+|  Week   |    Dates    | Link                                                                                    | Topic          |
+| :-----: | :---------: | :-------------------------------------------------------------------------------------- | :------------- |
+| Week 10 | 4/27 - 5/01 | [Week 10 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-10) |                |
+| Week 11 | 5/04 - 5/08 | [Week 11 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-11) |                |
+| Week 12 | 5/11 - 5/15 | [Week 12 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-12) | Project 4 Week |
+
+### Unit 5
+**Outcomes & Job Seeking**
 Resumés, LinkedIn, Job Applications, Oh My!
 
 <br>
@@ -134,26 +149,26 @@ Resumés, LinkedIn, Job Applications, Oh My!
 ## Attendance & Tardiness
 
 * Attendance is taken both in the morning and evening.
-  * You must be on time and ready to begin the day by 9:00AM to be considered present for morning attendance.
-  * You must remain on campus, in the classroom, until class is dismissed, and you must submit your exit tickets, to be considered present for evening attendance.
+  * You must be on time and ready to b**egin the day by 9:00AM** to be considered present for morning attendance.
+  * You must remain on campus, in the classroom, until class is dismissed, **and you must submit your daily mini-survey**, to be considered present for evening attendance.
 
 **Please note:**
 
-* You are allowed **no more** than 3 unexcused absences.
-  * Absences will be marked "excused" if you can provide a doctor's note or communicate the absence in advance.
+* You are allowed **no more** than 3 total unexcused absences.
+* Your late arrivals count towards your total absences. (3 unexcused lates = 1 unexcused absence)
+  * Arriving in class by **more than 5 minutes past class start** time is a late arrival.
 
-* You are allowed **no more** than 9 late arrivals. 
-  * Arriving in class by more than 5 minutes past class start time.
-  * 3 unexcused late arrivals = 1 full, unexcused absence.
-  * Late arrivals will be marked "excused" if you communicate with your leadership team within 20 minutes of class start.
+Absences and late arrivals may be marked "excused" on a case-by-case basis if you can provide a doctor's note, or if you communicate a valid reason for the absence/lateness in advance.
 
-**You must communicate with your leadership team via private slack in any event that you will miss class or arrive late.** (Preferably all instructors, in the event one of us doesn't receive the message or is not working the morning hours.) We are responsible for you during the coursework hours, so we take this very seriously.
+**You must communicate with your leadership team via private slack in any event that you will miss class or arrive late, regardless of whether or not it will be excused.** We are responsible for you during the coursework hours, so we take this very seriously. Please send a new direct message via slack to **all** instructors.
 
 <br>
 
 ## Homework Submission
 
-See **both** the [homework submission guidelines](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Guidelines_Homework-Submissions) and the [homework PR template](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Template_Homework-Submissions).
+* Homework submissions are due by 11PM. Missing homeworks will not be accepted. Incomplete homeworks can be completed, but will not be accepted after the unit ends.
+
+See both the [homework submission guidelines](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Guidelines_Homework-Submissions) and the [homework PR template](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Template_Homework-Submissions) for more.
 
 <br>
 
