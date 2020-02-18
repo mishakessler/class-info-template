@@ -1,13 +1,13 @@
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) <!-- omit in toc -->
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome, SEI Supernovas!<!-- omit in toc -->
 
-# SEI Cheetahs Class Information <!-- omit in toc -->
+![](supernova-banner.gif)
 
-## Welcome to your Software Engineering Immersive! <!-- omit in toc -->
+## Class Information
 
-Welcome, SEI Cheetahs! This repository will be used for most of the information you will need as students. This includes important links, contact information, etc.
+Congrats on starting your Software Engineering Immersive! This repo will be used for most of the information you will need as students for the next three months. This includes important schedule and calendar information, contact info for your leadership team, and course policies on homework, attendance, and plagiarism.
 
-For more resources, including General Assembly Guidelines, course templates, cheatsheets, and other resources, visit this repo's [Wiki Page](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki).
+For more, including the weekly and daily breakdowns and an overview of the templates available to you, please visit this repo's [wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki), which you can also find by clicking on the above link.
 
 # Table of Contents <!-- omit in toc -->
 
@@ -20,7 +20,7 @@ For more resources, including General Assembly Guidelines, course templates, che
     - [Unit 3](#Unit-3)
     - [Unit 4](#Unit-4)
     - [Unit 5 (AKA Outcomes)](#Unit-5-AKA-Outcomes)
-  - [Week Breakdown (By Day)](#Week-Breakdown-By-Day)
+  - [Week Breakdown (An Example Day)](#Week-Breakdown-An-Example-Day)
   - [Teaching Assistant Hours](#Teaching-Assistant-Hours)
   - [Campus Hours](#Campus-Hours)
 - [Course Policies](#Course-Policies)
@@ -33,18 +33,15 @@ For more resources, including General Assembly Guidelines, course templates, che
 
 # Course Leadership
 
-| Role                                  | Name            | Slack                 | Email                | GitHub Enterprise                                                     |
-| ------------------------------------- | --------------- | --------------------- | -------------------- | --------------------------------------------------------------------- |
-| **Instructional Lead** Unit 1         | Daniel Goldman  | @Daniel Goldman       | daniel.goldman@ga.co | [dan-goldman](https://git.generalassemb.ly/dan-goldman)               |
-| **Instructional Lead** Units 2-4      | Suresh Sigera   | @Suresh Melvin Sigera | suresh.sigera@ga.co  | [sureshmelvinsigera](https://git.generalassemb.ly/sureshmelvinsigera) |
-| **Instructional Lead** Units 2-4      | Casey Harding   | @Casey Harding        | casey.harding@ga.co  | [CRHarding](https://git.generalassemb.ly/CRHarding)                   |
-| **Instructional Associate** Units 1-2 | Mikayda Mills   | @mikayda Mills        | mikayda.mills@ga.co  | [kdabug](https://git.generalassemb.ly/kdabug)                         |
-| **Instructional Associate** Unit 2    | Maddy Rombes    | @Maddy Rombes         | maddy.rombes@ga.co   | [romebeez](https://git.generalassemb.ly/romebeez)                     |
-| **Instructional Associate** Units 3-4 | Shay Kelley     | @Shay Kelley          | shay.kelley@ga.co    | [shayk](https://git.generalassemb.ly/shayk)                           |
-| **Instructional Associate**           | Misha Kessler   | @Misha Kessler        | misha.kessler@ga.co  | [mishakessler](https://git.generalassemb.ly/mishakessler)             |
-| **Teaching Assistant** Week 1         | Maddy Rombes    | @Maddy Rombes         | maddy.rombes@ga.co   | [romebeez](https://git.generalassemb.ly/romebeez)                     |
-| **Teaching Assistant** Weeks 2-15     | Mary Chapman    | @Mary Chapman         | mary.chapman@ga.co   | [marychapman](https://git.generalassemb.ly/mary-chapman)              |
-| **Outcomes Advisor**                  | Daniel Robinson | @Dan Robinson         | dan.robinson@ga.co   |
+| Role                              | Name            | Slack            | Email                 | GitHub Enterprise                                               |
+| --------------------------------- | --------------- | ---------------- | --------------------- | --------------------------------------------------------------- |
+| **Instructional Lead** Unit 1 & 4 | David Whitlatch | @David Whitlatch | david.whitlatch@ga.co | [davidtwhitlatch](https://git.generalassemb.ly/davidtwhitlatch) |
+| **Instructional Lead** Unit 2     | Ali Spittel     | @Ali Spittel     | ali.spittel@ga.co     | [aspittel](https://git.generalassemb.ly/aspittel)               |
+| **Instructional Lead** Unit 3     | Bruno Galvao    | @Bruno Galvao    | bruno.galvao@ga.co    | [bruno](https://git.generalassemb.ly/bruno)                     |
+| **Instructional Associate**       | Katelyn Miles   | @Katelyn Miles   | katelyn.miles@ga.co   | [MilesK](https://git.generalassemb.ly/mishakessler)             |
+| **Instructional Associate**       | Misha Kessler   | @Misha Kessler   | misha.kessler@ga.co   | [mishakessler](https://git.generalassemb.ly/mishakessler)       |
+| **Teaching Assistant**            | Shay Kelley     | @Shay Kelley     | shay.kelley@ga.co     | [Shayk](https://git.generalassemb.ly/Shayk)                     |
+| **Outcomes Advisor**              | Daniel Robinson | @Dan Robinson    | dan.robinson@ga.co    |                                                                 |
 
 <br>
 
@@ -52,61 +49,52 @@ For more resources, including General Assembly Guidelines, course templates, che
 
 ## Important Dates
 
-|           Date           |   Day of Week    | Event                |
-| :----------------------: | :--------------: | :------------------- |
-|     **November 12**      |     Tuesday      | First Day of Class!  |
-| **November 28th, 29th**  | Thursday, Friday | Thanksgiving Holiday |
-| **December 23rd - 27th** | Monday - Friday  | Winter Holiday       |
-| **December 30th, 31st**  | Monday, Tuesday  | NYE Holiday          |
-|     **January 1st**      |    Wednesday     | NYE Holiday          |
-|    **February 17th**     |      Monday      | Presidents' Day      |
-|    **February 20th**     |     Thursday     | Last Day of Class!   |
+|       Date        | Day of Week | Event               |
+| :---------------: | :---------: | :------------------ |
+| **February 24th** |   Monday    | First Day of Unit 1 |
+|  **March 16th**   |   Monday    | First Day of Unit 2 |
+|   **April 6th**   |   Monday    | First Day of Unit 3 |
+|  **April 27th**   |   Monday    | First Day of Unit 4 |
+|   **May 15th**    |   Friday    | Graduation Day      |
 
 <br>
 
 ## Course Breakdown (By Unit)
 
-<!-- ![Weekly Breakdown](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/blob/master/cheetahs_weekly_breakdown.png) -->
-
 ### Unit 1
 Front-End Web Development Foundations - HTML, CSS, & JavaScript
-  * [Week 1](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-1) – _11/12 to 11/15/19_
-  * [Week 2](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-2) – _11/18 to 11/22/19_
-  * [Week 3](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-3) – _11/25 to 11/27/19_ – Project 1
-    * _Thanksgiving Break_
+  * [Week 1](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-1) – _11/12 to 11/15/19_
+  * [Week 2](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-2) – _11/18 to 11/22/19_
+  * [Week 3](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-3) – _11/25 to 11/27/19_ – Project 1
 
 ### Unit 2
 Front-End JavaScript Frameworks and Advanced JS - React
-  * [Week 4](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-4) – _12/02 to 12/06/19_
-  * [Week 5](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-5) – _12/09 to 12/13/19_
-  * [Week 6](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-6) – _12/16 to 12/20/19_ – Project 2
-    * _Holiday & NYE Break_
+  * [Week 4](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-4) – _12/02 to 12/06/19_
+  * [Week 5](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-5) – _12/09 to 12/13/19_
+  * [Week 6](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-6) – _12/16 to 12/20/19_ – Project 2
 
 ### Unit 3
 Back-End & Full Stack Web Development Foundations - MVC, Node.js, Express, PostgreSQL, & Sequelize
-  * Week 7 – _Off_
-  * [Week 8](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-8) – _01/02 to 01/03/20_
-  * [Week 9](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-9) – _01/06 to 01/10/20_
-  * [Week 10](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-10) – _01/13 to 01/17/20_ – Project 3 Begins
-    * _Martin Luther King Jr. Day_
-  * [Week 11](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-11) – _01/21 to 01/22/20_ – Project 3 Cont'd
+  * [Week 7](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-7) – _01/02 to 01/03/20_
+  * [Week 8](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-8) – _01/02 to 01/03/20_
+  * [Week 9](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-9) – _01/06 to 01/10/20_
+  * [Week 10](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-10) – _01/13 to 01/17/20_ – Project 3 Begins
+  * [Week 11](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-11) – _01/21 to 01/22/20_ – Project 3 Cont'd
 
 ### Unit 4
 Additional Technologies & Independent Work - Ruby on Rails, Final Project
-  * [Week 11](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-11) – _01/23 to 01/24/20_
-  * [Week 12](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-12) – _01/27 to 01/31/20_
-  * [Week 13](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-13) – _02/03 to 02/07/20_
-  * [Week 14](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-14) – _02/10 to 02/14/20_ – Project 4
-    * _Presidents' Day_
-  * [Week 15](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Week-15) - _2/18 to 2/20/20_ – Project 4 Cont'd
-    * 2/20/20 - _Graduation Day!_
+  * [Week 11](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-11) – _01/23 to 01/24/20_
+  * [Week 12](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-12) – _01/27 to 01/31/20_
+  * [Week 13](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-13) – _02/03 to 02/07/20_
+  * [Week 14](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-14) – _02/10 to 02/14/20_ – Project 4
+  * [Week 15](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-15) - _2/18 to 2/20/20_ – Project 4 Cont'd
 
 ### Unit 5 (AKA Outcomes)
 Resumés, LinkedIn, Job Applications, Oh My!
 
 <br>
 
-## Week Breakdown (By Day)
+## Week Breakdown (An Example Day)
 > This schedule may vary and could change depending on class progress.
 
 |              | Monday                 | Tuesday                | Wednesday              | Thursday               | Friday                 |
@@ -165,7 +153,7 @@ Resumés, LinkedIn, Job Applications, Oh My!
 
 ## Homework Submission
 
-See **both** the [homework submission guidelines](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Guidelines_Homework-Submissions) and the [homework PR template](https://git.generalassemb.ly/sei-nyc-cheetahs/class-info/wiki/Template_Homework-Submissions).
+See **both** the [homework submission guidelines](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Guidelines_Homework-Submissions) and the [homework PR template](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Template_Homework-Submissions).
 
 <br>
 
