@@ -109,7 +109,7 @@ Resumés, LinkedIn, Job Applications, Oh My!
 
 <br>
 
-## Week Breakdown (An Example Day)
+## Sample Week Breakdown
 > This schedule may vary and could change depending on class progress.
 
 |              | Monday                 | Tuesday                | Wednesday              | Thursday               | Friday                 |
