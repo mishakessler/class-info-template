@@ -67,9 +67,9 @@ For more, including the weekly and daily breakdowns and an overview of the resou
 
 |  Week  |    Dates    | Link                                                                                  | Topic                                           |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :---------------------------------------------- |
-| Week 1 | 2/24 - 2/28 | [Week 1 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-1) | Intros, Command Line Interface, Git, JavaScript |
-| Week 2 | 3/02 - 3/06 | [Week 2 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-2) |                                                 |
-| Week 3 | 3/09 - 3/13 | [Week 3 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-3) | Project 1                                       |
+| Week 1 | 2/24 - 2/28 | [Week 1 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-1-(Unit-1)) | Intros, Command Line Interface, Git, JavaScript |
+| Week 2 | 3/02 - 3/06 | [Week 2 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-2-(Unit-1) |                                                 |
+| Week 3 | 3/09 - 3/13 | [Week 3 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-3-(Project-1) | Project 1                                       |
 
 ### Unit 2
 
@@ -77,9 +77,9 @@ For more, including the weekly and daily breakdowns and an overview of the resou
 
 |  Week  |    Dates    | Link                                                                                  | Topic     |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :-------- |
-| Week 4 | 3/16 - 3/20 | [Week 4 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-4) |           |
-| Week 5 | 3/23 - 3/27 | [Week 5 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-5) |           |
-| Week 6 | 3/30 - 4/03 | [Week 6 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-6) | Project 2 |
+| Week 4 | 3/16 - 3/20 | [Week 4 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-4-(Unit-2) |           |
+| Week 5 | 3/23 - 3/27 | [Week 5 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-5-(Unit-2)) |           |
+| Week 6 | 3/30 - 4/03 | [Week 6 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-6-(Project-2) | Project 2 |
 
 ### Unit 3
 
@@ -87,9 +87,9 @@ For more, including the weekly and daily breakdowns and an overview of the resou
 
 |  Week  |    Dates    | Link                                                                                  | Topic          |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :------------- |
-| Week 7 | 4/06 - 4/10 | [Week 7 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-7) |                |
-| Week 8 | 4/13 - 4/17 | [Week 8 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-8) |                |
-| Week 9 | 4/20 - 4/23 | [Week 9 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-9) | Project 3 Week |
+| Week 7 | 4/06 - 4/10 | [Week 7 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-7-(Unit-3)) |                |
+| Week 8 | 4/13 - 4/17 | [Week 8 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-8-(Unit-3)) |                |
+| Week 9 | 4/20 - 4/23 | [Week 9 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-9-(Project-3)) | Project 3 Week |
 
 ### Unit 4
 
@@ -99,9 +99,9 @@ For more, including the weekly and daily breakdowns and an overview of the resou
 
 |  Week   |    Dates    | Link                                                                                    | Topic          |
 | :-----: | :---------: | :-------------------------------------------------------------------------------------- | :------------- |
-| Week 10 | 4/27 - 5/01 | [Week 10 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-10) |                |
-| Week 11 | 5/04 - 5/08 | [Week 11 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-11) |                |
-| Week 12 | 5/11 - 5/15 | [Week 12 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-12) | Project 4 Week |
+| Week 10 | 4/27 - 5/01 | [Week 10 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-10-(Unit-4)) |                |
+| Week 11 | 5/04 - 5/08 | [Week 11 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-11-(Unit-4)) |                |
+| Week 12 | 5/11 - 5/15 | [Week 12 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-12-(Project-4)) | Project 4 Week |
 
 ### Unit 5
 **Outcomes & Job Seeking**
