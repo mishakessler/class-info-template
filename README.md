@@ -68,7 +68,7 @@ For more, including the weekly and daily breakdowns and an overview of the resou
 |  Week  |    Dates    | Link                                                                                  | Topic                                           |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :---------------------------------------------- |
 | Week 1 | 2/24 - 2/28 | [Week 1 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-1-(Unit-1)) | Intros, Command Line Interface, Git, JavaScript |
-| Week 2 | 3/02 - 3/06 | [Week 2 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-2-(Unit-1))|                                                 |
+| Week 2 | 3/02 - 3/06 | [Week 2 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-2-(Unit-1))| CSS, DOM Manipulation, APIs                                                |
 | Week 3 | 3/09 - 3/13 | [Week 3 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Week-3-(Project-1)) | Project 1                                       |
 
 ### Unit 2
