@@ -23,7 +23,6 @@
 - [Code Showcase](#Code-Showcase)
 - [Code Issues & Resolutions](#Code-Issues--Resolutions)
 
-
 <br>
 
 ## Overview
