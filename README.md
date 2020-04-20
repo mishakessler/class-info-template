@@ -148,19 +148,19 @@ Resumés, LinkedIn, Job Applications, Oh My!
 
 ## Attendance & Tardiness
 
-Attendance is taken both in the morning and evening. Please review [the full plagiarism policy document](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/blob/master/policies/attendance.md).
+Attendance is taken both in the morning and evening. Please review [the full attendance policy document](./policies/attendance.md).
 
 <br>
 
 ## Homework Submissions
 
-Homework submissions are due by 11:00PM. Missing homeworks will not be accepted; incomplete (or incorrect) homeworks can be completed, but will not be accepted after the unit's project week. Please review [the full homework submission guidelines](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/blob/master/homework/guidelines.md) and the [homework submission template](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/blob/master/homework/submission-template.md).
+Homework submissions are due by 11:00PM. Missing homeworks will not be accepted. Please review [the full homework submission guidelines](./homework/guidelines.md) and the [homework submission template](./homework/submission-template.md).
 
 <br>
 
 ## Plagiarism
 
-General Assembly has a **zero tolerance policy** towards plagiarism and cheating. It is destructive to classroom culture, and exhibits a clear lack of respect for classmates, instructors, the company, and the greater engineering community. Please review [the full plagiarism policy document](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/blob/master/policies/plagiarism.md).
+General Assembly has a **zero tolerance policy** towards plagiarism and cheating. It is destructive to classroom culture, and exhibits a clear lack of respect for classmates, instructors, the company, and the greater engineering community. Please review [the full plagiarism policy document](./policies/plagiarism.md).
 
 <br>
 
