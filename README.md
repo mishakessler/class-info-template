@@ -95,8 +95,6 @@ For more, including the daily schedules and an overview of the resources availab
 
 **Additional Technologies & Independent Work - Ruby on Rails**
 
-**Back End & Full Stack Web Development Foundations - MVC, Node.js, Express, PostgreSQL, & Sequelize**
-
 |  Week   |    Dates    | Link                                                                                   | Topic          |
 | :-----: | :---------: | :------------------------------------------------------------------------------------- | :------------- |
 | Week 10 | 4/27 - 5/01 | [Week 10 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-4) |                |
