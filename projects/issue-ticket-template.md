@@ -1,4 +1,4 @@
-# Project Issue Ticket
+# PROJECT ISSUE TICKET
 
 > Copy and paste the raw MD code of this template, then replace the quote blocks with your detailed, clear descriptions.
 

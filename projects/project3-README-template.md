@@ -1,28 +1,27 @@
-# Full Stack Project
+# PROJECT 3 README <!-- omit in toc -->
 
 > The Project Planning section **should be completed** for your project pitch with instructors.
+>
 > To ensure correct Markdown, I recommend cloning this wiki and copy/pasting the raw template code.
 
-- [Full Stack Project](#Full-Stack-Project)
-  - [Overview](#Overview)
-    - [Team Members](#Team-Members)
-    - [Team Expectations](#Team-Expectations)
-    - [Permissions](#Permissions)
-  - [MVP](#MVP)
-    - [MVP Goals](#MVP-Goals)
-    - [MVP Libraries](#MVP-Libraries)
-    - [MVP Client (Front End)](#MVP-Client-Front-End)
-      - [Wireframes](#Wireframes)
-      - [Component Hierarchy](#Component-Hierarchy)
-      - [Component Breakdown](#Component-Breakdown)
-      - [Component Estimates](#Component-Estimates)
-    - [MVP Server (Back End)](#MVP-Server-Back-End)
-      - [ERD Model](#ERD-Model)
-      - [Data Heirarchy](#Data-Heirarchy)
-  - [Post-MVP](#Post-MVP)
-  - [Project Delivery](#Project-Delivery)
-  - [Code Showcase](#Code-Showcase)
-  - [Code Issues & Resolutions](#Code-Issues--Resolutions)
+- [Overview](#Overview)
+  - [Team Members](#Team-Members)
+  - [Team Expectations](#Team-Expectations)
+  - [Permissions](#Permissions)
+- [MVP](#MVP)
+  - [Goals](#Goals)
+  - [Libraries](#Libraries)
+  - [Client (Front End)](#Client-Front-End)
+    - [Wireframes](#Wireframes)
+    - [Component Hierarchy](#Component-Hierarchy)
+    - [Component Breakdown](#Component-Breakdown)
+    - [Component Estimates](#Component-Estimates)
+  - [Server (Back End)](#Server-Back-End)
+    - [ERD Model](#ERD-Model)
+    - [Data Heirarchy](#Data-Heirarchy)
+- [Post-MVP](#Post-MVP)
+- [Code Showcase](#Code-Showcase)
+- [Code Issues & Resolutions](#Code-Issues--Resolutions)
 
 
 <br>
@@ -33,11 +32,11 @@ _**Project Title** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum ri
 
 ### Team Members
 
-Created, designed, and developed by [James Madison](), [George Washington](), and [John Lansing, Jr.]() (Git Czar) for the General Assembly Software Engineering Immersive (November '19 Cohort) Unit 3 Project. 
+Created, designed, and developed by [James Madison](https://github.com/mishakessler), [George Washington](https://github.com/mishakessler), and [John Lansing, Jr.](https://github.com/mishakessler) (Git Czar) for the General Assembly Software Engineering Immersive (November '19 Cohort) Unit 3 Group Project.
 
 ### Team Expectations
 
-Team values and expectations can be found on our project's [Google document]().
+Team values and expectations can be found on our project's [Group Expectation Setting Document](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/blob/master/projects/template_group-expectation-setting.md).
 
 ### Permissions
 
@@ -53,7 +52,7 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 
 <br>
 
-### MVP Goals
+### Goals
 
 - _Lorem ipsum, dolor sit amet,_
 - _consectetur adipiscing elit._
@@ -63,7 +62,7 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 
 <br>
 
-### MVP Libraries
+### Libraries
 
 > Use this section to list all supporting libraries and dependencies, and their role in the project.
 
@@ -77,7 +76,7 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 
 <br>
 
-### MVP Client (Front End)
+### Client (Front End)
 
 #### Wireframes
 
@@ -151,7 +150,7 @@ src
 
 <br>
 
-### MVP Server (Back End)
+### Server (Back End)
 
 #### ERD Model
 
@@ -180,10 +179,6 @@ database_db
 
 ***
 
-## Project Delivery
-
-> The Delivery section should be expanded and revised as you work on your project.
-
 ## Code Showcase
 
 > Use this section to include a brief code snippet of functionality that you are proud of and a brief description.
@@ -191,5 +186,3 @@ database_db
 ## Code Issues & Resolutions
 
 > Use this section to list of all major issues encountered and their resolution, if you'd like.
-
-***
