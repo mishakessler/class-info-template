@@ -150,13 +150,9 @@ Resumés, LinkedIn, Job Applications, Oh My!
 
 Attendance is taken both in the morning and evening. Please review [the full attendance policy document](./policies/attendance.md).
 
-<br>
-
 ## Homework Submissions
 
 Homework submissions are due by 11:00PM. Missing homeworks will not be accepted. Please review [the full homework submission guidelines](./homework/guidelines.md) and the [homework submission template](./homework/submission-template.md).
-
-<br>
 
 ## Plagiarism
 
