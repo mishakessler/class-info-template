@@ -73,7 +73,7 @@ For more, including the daily schedules and an overview of the resources availab
 
 ### Unit 2
 
-**Front End JavaScript Frameworks and Advanced JS - React**
+**Front End JavaScript Frameworks and Advanced JS - React, React Router, Test Driven Development, Component Libraries**
 
 |  Week  |    Dates    | Link                                                                                  | Topic                                    |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :--------------------------------------- |
@@ -83,7 +83,7 @@ For more, including the daily schedules and an overview of the resources availab
 
 ### Unit 3
 
-**Back End & Full Stack Web Development Foundations - MVC, Node.js, Express, PostgreSQL, & Sequelize**
+**Back End & Full Stack Web Development Foundations - Group Git Version Control, Express, MongoDB, SQL**
 
 |  Week  |    Dates    | Link                                                                                  | Topic                      |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :------------------------- |
