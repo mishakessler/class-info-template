@@ -19,7 +19,7 @@ For more, including the daily schedules and an overview of the resources availab
     - [Unit 2](#Unit-2)
     - [Unit 3](#Unit-3)
     - [Unit 4](#Unit-4)
-    - [Unit 5](#Unit-5)
+    - [Outcomes](#Outcomes)
   - [Sample Week Breakdown](#Sample-Week-Breakdown)
   - [Teaching Assistant Hours](#Teaching-Assistant-Hours)
   - [Campus Hours](#Campus-Hours)
@@ -67,9 +67,9 @@ For more, including the daily schedules and an overview of the resources availab
 
 |  Week  |    Dates    | Link                                                                                  | Topic                                           |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :---------------------------------------------- |
-| Week 1 | 2/24 - 2/28 | [Week 1 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-1) | Intros, Command Line Interface, Git, JavaScript |
-| Week 2 | 3/02 - 3/06 | [Week 2 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-1) | CSS, DOM Manipulation, APIs                     |
-| Week 3 | 3/09 - 3/13 | [Week 3 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-1) | Project 1                                       |
+| Week 1 | 2/24 - 2/28 | [Unit 1 Detailed View](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-1) | Intros, Command Line Interface, Git, JavaScript |
+| Week 2 | 3/02 - 3/06 |  | CSS, DOM Manipulation, APIs                     |
+| Week 3 | 3/09 - 3/13 |  | Project 1                                       |
 
 ### Unit 2
 
@@ -77,9 +77,9 @@ For more, including the daily schedules and an overview of the resources availab
 
 |  Week  |    Dates    | Link                                                                                  | Topic                                    |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :--------------------------------------- |
-| Week 4 | 3/16 - 3/20 | [Week 4 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-2) | OOP, React, Component Libraries, Testing |
-| Week 5 | 3/23 - 3/27 | [Week 5 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-2) | Life Cycle, Hooks, Router                |
-| Week 6 | 3/30 - 4/03 | [Week 6 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-2) | Project 2                                |
+| Week 4 | 3/16 - 3/20 | [Unit 2 Detailed View](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-2) | OOP, React, Component Libraries, Testing |
+| Week 5 | 3/23 - 3/27 | | Life Cycle, Hooks, Router                |
+| Week 6 | 3/30 - 4/03 | | Project 2                                |
 
 ### Unit 3
 
@@ -87,9 +87,9 @@ For more, including the daily schedules and an overview of the resources availab
 
 |  Week  |    Dates    | Link                                                                                  | Topic                      |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :------------------------- |
-| Week 7 | 4/06 - 4/10 | [Week 7 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-3) | Express, MongoDB, GroupGit |
-| Week 8 | 4/13 - 4/17 | [Week 8 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-3) | Project 3                  |
-| Week 9 | 4/20 - 4/23 | [Week 9 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-3) | SQL                        |
+| Week 7 | 4/06 - 4/10 | [Unit 3 Detailed View](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-3) | Express, MongoDB, GroupGit |
+| Week 8 | 4/13 - 4/17 | | Project 3                  |
+| Week 9 | 4/20 - 4/23 | | SQL                        |
 
 ### Unit 4
 
@@ -97,13 +97,15 @@ For more, including the daily schedules and an overview of the resources availab
 
 |  Week   |    Dates    | Link                                                                                   | Topic          |
 | :-----: | :---------: | :------------------------------------------------------------------------------------- | :------------- |
-| Week 10 | 4/27 - 5/01 | [Week 10 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-4) |                |
-| Week 11 | 5/04 - 5/08 | [Week 11 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-4) |                |
-| Week 12 | 5/11 - 5/15 | [Week 12 Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-4) | Project 4 Week |
+| Week 10 | 4/27 - 5/01 | [Unit 4 Detailed View](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-4) |                |
+| Week 11 | 5/04 - 5/08 | |                |
+| Week 12 | 5/11 - 5/15 | | Project 4 Week |
 
-### Unit 5
-**Outcomes & Job Seeking**
-Resumés, LinkedIn, Job Applications, Oh My!
+### Outcomes
+
+**Personal Branding, Job Seeking, & Career Directions**
+
+| Week 1 | 2/26 | [Outcomes Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Outcomes) | Intro to Outcomes |
 
 <br>
 
