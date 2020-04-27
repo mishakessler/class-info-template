@@ -65,7 +65,7 @@ For more, including the daily schedules and an overview of the resources availab
 
 **Front End Web Development Foundations - HTML, CSS, & JavaScript**
 
-|  Week  |    Dates    | Link                                                                                  | Topic                                           |
+|  Week  |    Date    | Link                                                                                  | Topic                                           |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :---------------------------------------------- |
 | Week 1 | 2/24 - 2/28 | [Unit 1 Detailed View](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-1) | Intros, Command Line Interface, Git, JavaScript |
 | Week 2 | 3/02 - 3/06 |  | CSS, DOM Manipulation, APIs                     |
@@ -75,7 +75,7 @@ For more, including the daily schedules and an overview of the resources availab
 
 **Front End JavaScript Frameworks and Advanced JS - React, React Router, Test Driven Development, Component Libraries**
 
-|  Week  |    Dates    | Link                                                                                  | Topic                                    |
+|  Week  |    Date    | Link                                                                                  | Topic                                    |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :--------------------------------------- |
 | Week 4 | 3/16 - 3/20 | [Unit 2 Detailed View](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-2) | OOP, React, Component Libraries, Testing |
 | Week 5 | 3/23 - 3/27 | | Life Cycle, Hooks, Router                |
@@ -85,7 +85,7 @@ For more, including the daily schedules and an overview of the resources availab
 
 **Back End & Full Stack Web Development Foundations - Group Git Version Control, Express, MongoDB, SQL**
 
-|  Week  |    Dates    | Link                                                                                  | Topic                      |
+|  Week  |    Date    | Link                                                                                  | Topic                      |
 | :----: | :---------: | :------------------------------------------------------------------------------------ | :------------------------- |
 | Week 7 | 4/06 - 4/10 | [Unit 3 Detailed View](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-3) | Express, MongoDB, GroupGit |
 | Week 8 | 4/13 - 4/17 | | Project 3                  |
@@ -95,7 +95,7 @@ For more, including the daily schedules and an overview of the resources availab
 
 **Additional Technologies & Independent Work - Ruby on Rails**
 
-|  Week   |    Dates    | Link                                                                                   | Topic          |
+|  Week   |    Date    | Link                                                                                   | Topic          |
 | :-----: | :---------: | :------------------------------------------------------------------------------------- | :------------- |
 | Week 10 | 4/27 - 5/01 | [Unit 4 Detailed View](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Unit-4) |                |
 | Week 11 | 5/04 - 5/08 | |                |
@@ -105,6 +105,8 @@ For more, including the daily schedules and an overview of the resources availab
 
 **Personal Branding, Job Seeking, & Career Directions**
 
+|  Week   |    Date    | Link                                                                                   | Topic          |
+| :-----: | :---------: | :------------------------------------------------------------------------------------- | :------------- |
 | Week 1 | 2/26 | [Outcomes Wiki](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/wiki/Outcomes) | Intro to Outcomes |
 
 <br>
