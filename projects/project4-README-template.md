@@ -5,9 +5,11 @@
 > To ensure correct Markdown, I recommend copy/pasting the raw template code.
 
 - [Overview](#Overview)
-- [MVP](#MVP)
+  - [Core Features](#Core-Features)
   - [Goals](#Goals)
-  - [Libraries](#Libraries)
+  - [Team](#Team)
+  - [Permissions](#Permissions)
+- [MVP](#MVP)
   - [Client (Front End)](#Client-Front-End)
     - [Wireframes](#Wireframes)
     - [Component Hierarchy](#Component-Hierarchy)
@@ -16,6 +18,8 @@
   - [Server (Back End)](#Server-Back-End)
     - [ERD Model](#ERD-Model)
     - [Data Heirarchy](#Data-Heirarchy)
+    - [Data Heirarchy](#Data-Heirarchy-1)
+  - [Dependencies](#Dependencies)
 - [Post-MVP](#Post-MVP)
 - [Code Showcase](#Code-Showcase)
 - [Code Issues & Resolutions](#Code-Issues--Resolutions)
