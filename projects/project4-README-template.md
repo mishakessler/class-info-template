@@ -144,7 +144,7 @@ src
 
 > Use this section to display an image of a computer generated ERD model.
 
-#### Data Heirarchy
+#### Data Hierarchy
 
 > Use this section to display the database, table, and attribute heirarchy.
 
@@ -157,7 +157,7 @@ database_db
 
 ```
 
-#### Data Heirarchy
+#### Data Hierarchy
 
 > Use this section to display the expected endpoints from your API.
 
