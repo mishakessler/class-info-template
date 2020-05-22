@@ -35,7 +35,7 @@ Created, designed, and developed by [James Madison](https://github.com/mishakess
 
 ### Team Expectations
 
-Team values and expectations can be found on our project's [Group Expectation Setting Document](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/blob/master/projects/template_group-expectation-setting.md).
+Team values and expectations can be found on our project's [Group Expectation Setting Document](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/projects/template_group-expectation-setting.md).
 
 ### Permissions
 
