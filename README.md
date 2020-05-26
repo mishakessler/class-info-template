@@ -125,8 +125,8 @@ For more, including the daily schedules and an overview of the resources availab
 
 |  Week   |    Date     | Link                                                                                               | Topic          |
 | :-----: | :---------: | :------------------------------------------------------------------------------------------------- | :------------- |
-| Week 10 | 7/27 - 8/01 | [Unit 4 Detailed View](https://git.generalassemb.ly/sei-nyc-constellations/class-info/wiki/Unit-4) |                |
-| Week 11 | 8/03 - 8/07 |                                                                                                    |                |
+| Week 10 | 7/27 - 8/01 | [Unit 4 Detailed View](https://git.generalassemb.ly/sei-nyc-constellations/class-info/wiki/Unit-4) |  Relational Data Modeling, SQL  |
+| Week 11 | 8/03 - 8/07 |                                                                                                    |    Ruby, Rails  |
 | Week 12 | 8/10 - 8/14 |                                                                                                    | Project 4 Week |
 | Week 13 | 8/17 - 8/18 |                                                                                                    | Project 4 Week |
 
@@ -173,7 +173,9 @@ For more, including the daily schedules and an overview of the resources availab
 | ----------------- | :--------: |
 | Monday - Thursday | 8AM - 10PM |
 | Friday            | 8AM - 6PM  |
-| Saturday & Sunday | 9AM - 6PM  | --> |
+| Saturday & Sunday | 9AM - 6PM  | 
+
+-->
 
 <br>
 
